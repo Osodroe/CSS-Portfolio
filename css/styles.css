@@ -17,12 +17,21 @@ header {
 
 /* Projects
 ====================================*/
+.projects {
+  background: #dbffdb;
+}
 
 /* Work Experience
 ====================================*/
+.work-experience {
+  background: #c7e3ff;
+}
 
 /* Education
 ====================================*/
+.education {
+  background: #ffe8e8;
+}
 
 /* Contact Information
 ====================================*/
