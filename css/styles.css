@@ -13,6 +13,10 @@ img {
   border-radius: 4px; 
 }
 
+h2 {
+  text-align: center;
+}
+
 /* Profile
 ====================================*/
 header {
@@ -50,4 +54,9 @@ footer {
 a:link.btn {
   color: #000;
   background: #fff;
+}
+
+a:hover.btn {
+  color: #000;
+  background: rgba(255, 255, 255, 80%);
 }
