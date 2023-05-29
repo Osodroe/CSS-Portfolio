@@ -2,6 +2,7 @@
 ====================================*/
 body {
   color: #161616;
+  margin-left: 5px;
 }
 
 img {
@@ -21,7 +22,6 @@ h2 {
 ====================================*/
 header {
   background: #404040;
-  padding: 4px;
   color: #f2f2f2;
   text-align: center;
 }
@@ -30,28 +30,24 @@ header {
 ====================================*/
 .projects {
   background: #dbffdb;
-  padding: 4px;
 }
 
 /* Work Experience
 ====================================*/
 .work-experience {
   background: #c7e3ff;
-  padding: 4px;
 }
 
 /* Education
 ====================================*/
 .education {
   background: #ffe8e8;
-  padding: 4px;
 }
 
 /* Contact Information
 ====================================*/
 footer {
   background: #404040;
-  padding: 4px;
   color: #f2f2f2;
   text-align: center;
 }
