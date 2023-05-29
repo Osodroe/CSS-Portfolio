@@ -8,6 +8,11 @@ img {
   width: 300px;
 }
 
+.btn {
+  padding: 10px;
+  border-radius: 4px; 
+}
+
 /* Profile
 ====================================*/
 header {
@@ -38,4 +43,9 @@ header {
 footer {
   background: #404040;
   color: #f2f2f2
+}
+
+a:link .btn {
+  color: #000;
+  background: #fff;
 }
