@@ -8,7 +8,7 @@ img {
   width: 300px;
 }
 
-.btn {
+a.btn {
   padding: 10px;
   border-radius: 4px; 
 }
